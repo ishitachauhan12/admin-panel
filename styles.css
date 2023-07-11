@@ -1,0 +1,38 @@
+.roww:hover {
+  background-color: rgb(82, 170, 228);
+  color: black;
+}
+
+.pass {
+  color: rgb(118, 180, 118);
+}
+
+.fail {
+  /* background-color: rgb(224, 133, 121); */
+  color: rgb(245, 2, 2);
+}
+
+.error-field {
+  border-color: red;
+}
+
+.display-none {
+  display: none;
+}
+
+.invalid {
+  color: red;
+  display: none;
+}
+
+.form-card {
+  margin: 20px;
+  width: 40%;
+  background-color: rgb(176, 176, 231);
+  padding: 5%;
+  display: none;
+}
+
+.hobbies {
+  width: 40%;
+}

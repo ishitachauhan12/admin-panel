@@ -1,0 +1,74 @@
+{
+  "students": [
+    {
+      "Name": "Morten Bridgman",
+      "Email": "mbridgman0@forbes.com",
+      "Phone_No": "5757222351",
+      "Percentage": 22,
+      "Hobbies": ["reading novels", "Cooking", "reading novels"]
+    },
+    {
+      "Name": "Gussy Harness",
+      "Email": "gharness1@devhub.com",
+      "Phone_No": "6429063782",
+      "Percentage": 89,
+      "Hobbies": ["Cooking", "running"]
+    },
+    {
+      "Name": "Fremont Decaze",
+      "Email": "fdecaze2@google.com",
+      "Phone_No": "2935875780",
+      "Percentage": 87,
+      "Hobbies": ["Cooking"]
+    },
+    {
+      "Name": "Maurita Jaze",
+      "Email": "mjaze3@canalblog.com",
+      "Phone_No": "8763336980",
+      "Percentage": 24,
+      "Hobbies": ["running", "Playing chess"]
+    },
+    {
+      "Name": "Fin Mendez",
+      "Email": "fmendez4@parallels.com",
+      "Phone_No": "5474880986",
+      "Percentage": 50,
+      "Hobbies": ["Playing chess", "reading novels"]
+    },
+    {
+      "Name": "Germayne Gebby",
+      "Email": "ggebby5@cnn.com",
+      "Phone_No": "7951609216",
+      "Percentage": 37,
+      "Hobbies": ["Cooking", "Playing chess", "reading novels", "running"]
+    },
+    {
+      "Name": "George Cayton",
+      "Email": "gcayton6@vinaora.com",
+      "Phone_No": "9862374315",
+      "Percentage": 70,
+      "Hobbies": ["Playing chess"]
+    },
+    {
+      "Name": "Von Oliva",
+      "Email": "voliva7@digg.com",
+      "Phone_No": "1346528304",
+      "Percentage": 21,
+      "Hobbies": ["running"]
+    },
+    {
+      "Name": "Rona Keeping",
+      "Email": "rkeeping8@geocities.jp",
+      "Phone_No": "7869461472",
+      "Percentage": 96,
+      "Hobbies": ["reading novels"]
+    },
+    {
+      "Name": "Briana Shimwell",
+      "Email": "bshimwell9@cocolog-nifty.com",
+      "Phone_No": "4607188882",
+      "Percentage": 43,
+      "Hobbies": ["reading novels"]
+    }
+  ]
+}
